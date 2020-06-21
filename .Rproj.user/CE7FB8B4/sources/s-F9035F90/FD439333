@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592719445440.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FD439333",
+    "lastKnownWriteTime" : 1592719465,
+    "last_content_update" : 1592719507834,
+    "path" : "C:/Users/Numan/Desktop/R/Coursera/HelloWorl.Rmd",
+    "project_path" : "HelloWorl.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
